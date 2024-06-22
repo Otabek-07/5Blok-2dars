@@ -1,0 +1,22 @@
+.wrapper{
+    background-color:rgb(1, 98, 98);
+    padding: 20px 20px;
+}
+.productWrapper{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   flex-wrap: wrap;
+}
+
+.wrapperProduct{
+    width: 400px;
+    margin: 10px 10px;
+    color: #000;
+    font-family: 18px;
+    font-family: sans-serif;
+    font-weight: 600;
+    background-color: #fff;
+    border-radius: 3px;
+    padding: 10px 10px;
+}
